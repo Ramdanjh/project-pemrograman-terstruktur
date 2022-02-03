@@ -1,0 +1,53 @@
+#bergerak sepanjang garis putih
+right
+forward(9)
+left
+forward(1)
+right
+forward(2)
+left
+forward(6)
+left
+forward(8)
+right
+forward(2)
+#memindahkan obyek
+right
+forward(4)
+right
+forward(2)
+left
+forward(6)
+left
+forward (1)
+pickup
+backward (1)
+left
+forward(13)
+right
+forward(2)
+left
+forward(4)
+putdown
+#membuat angka delapan
+left
+forward(6)
+left
+forward (1)
+paintwhite
+forward(3)
+right
+forward(4)
+right
+forward(3)
+right
+forward(4)
+backward(2)
+right
+forward(3)
+
+
+
+
+
+
